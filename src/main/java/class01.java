@@ -3,7 +3,8 @@ public class class01 {
         //version 1
         System.out.println("versiyon 1 kodları");
 
-
+        //version 2
+        System.out.println("versiyon 2 kodları");
 
 
 
